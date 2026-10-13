@@ -1,0 +1,9 @@
+{
+  "id": "skp-preview",
+  "name": "SketchUp Preview",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Preview the embedded thumbnail of local SketchUp SKP files without modifying or uploading them.",
+  "author": "AHS",
+  "isDesktopOnly": false
+}
